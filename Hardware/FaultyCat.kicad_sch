@@ -11235,6 +11235,12 @@
 		(uuid "aaf40558-0c86-4cb1-9f7b-d28146e32252")
 	)
 	(junction
+		(at 153.67 262.89)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b5f5c313-d232-4261-baed-e6297a44dc04")
+	)
+	(junction
 		(at 370.84 108.712)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11305,6 +11311,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "de8f4f93-4082-4bf0-b7d0-82bed50d2791")
+	)
+	(junction
+		(at 182.88 262.89)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e2bfdfa4-d078-45da-9971-3d0b818920e3")
 	)
 	(junction
 		(at 69.215 260.985)
@@ -11398,7 +11410,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 262.89) (xy 158.75 262.89)
+			(xy 148.59 262.89) (xy 153.67 262.89)
 		)
 		(stroke
 			(width 0)
@@ -11575,6 +11587,16 @@
 			(type default)
 		)
 		(uuid "0db2329c-20dc-462b-b20a-ad6f2e2cbe93")
+	)
+	(wire
+		(pts
+			(xy 153.67 262.89) (xy 158.75 262.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ecd7a93-9e8e-4d87-b3ad-b0b5b571c33e")
 	)
 	(wire
 		(pts
@@ -11835,6 +11857,16 @@
 			(type default)
 		)
 		(uuid "1fb4f9ad-cdbe-4a2f-aae4-0256e492d03f")
+	)
+	(wire
+		(pts
+			(xy 182.88 264.16) (xy 182.88 262.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20c6ee09-e9ba-4485-a6cf-931f9a3a1d3d")
 	)
 	(wire
 		(pts
@@ -12118,6 +12150,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 270.51) (xy 182.88 269.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31d5a49a-b427-41b3-b46e-0688279fff7c")
+	)
+	(wire
+		(pts
 			(xy 393.7 135.89) (xy 389.89 135.89)
 		)
 		(stroke
@@ -12178,7 +12220,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 262.89) (xy 177.8 262.89)
+			(xy 186.69 262.89) (xy 182.88 262.89)
 		)
 		(stroke
 			(width 0)
@@ -12708,7 +12750,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 259.08) (xy 182.88 262.89)
+			(xy 186.69 259.08) (xy 186.69 262.89)
 		)
 		(stroke
 			(width 0)
@@ -13945,6 +13987,16 @@
 			(type default)
 		)
 		(uuid "aa9a1ef9-d836-4264-9c80-04b103190f60")
+	)
+	(wire
+		(pts
+			(xy 153.67 265.43) (xy 153.67 262.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abfff30e-f0a8-4237-b145-464cba5851bc")
 	)
 	(wire
 		(pts
@@ -15238,6 +15290,16 @@
 	)
 	(wire
 		(pts
+			(xy 153.67 271.78) (xy 153.67 270.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0be6a52-4015-4b5b-8355-0eefc39f48bb")
+	)
+	(wire
+		(pts
 			(xy 30.48 201.93) (xy 30.48 199.39)
 		)
 		(stroke
@@ -15448,6 +15510,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 262.89) (xy 177.8 262.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff0daf97-356f-4d6f-9a25-96e1ed34a1dc")
+	)
+	(wire
+		(pts
 			(xy 328.549 232.537) (xy 328.549 231.521)
 		)
 		(stroke
@@ -15607,7 +15679,7 @@
 		(uuid "24fb00e8-da7f-48a3-8f68-d3b1cf449026")
 	)
 	(label "VIN"
-		(at 153.67 262.89 0)
+		(at 148.59 262.89 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16395,6 +16467,136 @@
 			(project "BuggyCat"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 153.67 271.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "020bd2b0-83b1-42f8-8432-2f3ceb22f25a")
+		(property "Reference" "#PWR070"
+			(at 153.67 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 155.194 275.082 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 153.67 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 153.67 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "32e347a3-1a7f-4c82-b652-9eaca0d9d8e1")
+		)
+		(instances
+			(project "FaultyCat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR070")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 182.88 270.51 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "021c940b-9b92-42c9-8fd5-136a47786de8")
+		(property "Reference" "#PWR071"
+			(at 182.88 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 184.404 273.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 182.88 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 182.88 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 182.88 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "53720d2f-cdf8-4da9-9d64-834a737bc719")
+		)
+		(instances
+			(project "FaultyCat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -21492,7 +21694,7 @@
 	)
 	(symbol
 		(lib_id "power:+1V8")
-		(at 182.88 259.08 0)
+		(at 186.69 259.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21501,7 +21703,7 @@
 		(fields_autoplaced yes)
 		(uuid "4c3263f2-306a-46ab-ba82-200e6ca89664")
 		(property "Reference" "#PWR067"
-			(at 182.88 262.89 0)
+			(at 186.69 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21510,7 +21712,7 @@
 			)
 		)
 		(property "Value" "+1V8"
-			(at 182.88 254 0)
+			(at 186.69 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21518,7 +21720,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 182.88 259.08 0)
+			(at 186.69 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21527,7 +21729,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 182.88 259.08 0)
+			(at 186.69 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21536,7 +21738,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+1V8\""
-			(at 182.88 259.08 0)
+			(at 186.69 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23237,6 +23439,129 @@
 			(project "BuggyCat"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "C19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 153.67 267.97 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6a3a4c59-ea8b-48ec-814f-f35e3d8a5a19")
+		(property "Reference" "C24"
+			(at 149.479 266.319 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10uF"
+			(at 147.955 270.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 153.67 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 153.67 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C15525"
+			(at 153.67 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manf#" "CL05A106MQ5NUNC"
+			(at 153.67 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Proveedor" "LCSC"
+			(at 153.67 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 153.67 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 153.67 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 153.67 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fc7ddaaa-0726-4279-8ec6-6963390a354a")
+		)
+		(pin "2"
+			(uuid "7b3b0937-27df-4808-b053-7f5162fb6b68")
+		)
+		(instances
+			(project "FaultyCat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -31580,6 +31905,129 @@
 			(project "BuggyCat"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 182.88 266.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f6b5db13-4831-49e5-b422-f157bff76dbb")
+		(property "Reference" "C23"
+			(at 178.689 265.049 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10uF"
+			(at 177.165 268.732 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 182.88 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 182.88 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 182.88 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C15525"
+			(at 182.88 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manf#" "CL05A106MQ5NUNC"
+			(at 182.88 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Proveedor" "LCSC"
+			(at 182.88 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 182.88 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 182.88 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 182.88 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c6471d47-98d8-4fd2-b4eb-b73b3e2884e8")
+		)
+		(pin "2"
+			(uuid "1779434f-e40c-4de5-9b99-582a8a650b80")
+		)
+		(instances
+			(project "FaultyCat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "C23")
 					(unit 1)
 				)
 			)
