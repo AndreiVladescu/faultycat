@@ -303,7 +303,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2540,7 +2540,7 @@
 				)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C3193927"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2954,7 +2954,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9098,7 +9098,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11795,7 +11795,7 @@
 				)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C2886902"
 			(at 260.358 166.0975 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13523,7 +13523,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -14551,7 +14551,7 @@
 				)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C2886902"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15208,7 +15208,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15240,6 +15240,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6ed1494a-5d25-4e1b-b708-0c8aa9140b74")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C7499322"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "66d79221-822d-4a7b-ae54-4afa1024c678")
 			(effects
 				(font
 					(size 1 1)
@@ -15550,7 +15563,7 @@
 				)
 			)
 		)
-		(property "Manf#" "SM4005PL-TP"
+		(property "Manf#" "1N4005"
 			(at 247.71 85.1775 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15606,6 +15619,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ce6400f8-02a9-4650-a182-4af3f598b9eb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C437593"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "daa0a58d-0cd7-48e8-b10d-eeb58bcc9713")
 			(effects
 				(font
 					(size 1 1)
@@ -18071,7 +18097,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -18433,7 +18459,7 @@
 				)
 			)
 		)
-		(property "Manf#" "SM4005PL-TP"
+		(property "Manf#" "1N4005"
 			(at 26.77625 222.04875 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18489,6 +18515,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "91e4bf97-decb-4d11-9820-18303c8b5943")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C437593"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "88381888-b7b8-4052-bd1b-bc92046d1934")
 			(effects
 				(font
 					(size 1 1)
@@ -18870,6 +18909,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "40c4964c-12f9-402d-97d6-da95506465b0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C263147"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fdc4a683-2021-4256-b700-be15bd194552")
 			(effects
 				(font
 					(size 1 1)
@@ -21812,7 +21864,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21883,6 +21935,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f76b34aa-5e95-410d-aad1-a059e4e1f8c3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C5116489"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3221190d-b074-4d37-9ed1-50ee6905ad0e")
 			(effects
 				(font
 					(size 1 1)
@@ -23320,6 +23385,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -23331,6 +23397,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -23535,7 +23602,7 @@
 				)
 			)
 		)
-		(property "Proveedor" "MOUSER"
+		(property "Proveedor" "LCSC"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23588,7 +23655,8 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(sheetname "Raíz")
+		(path "/6a3a4c59-ea8b-48ec-814f-f35e3d8a5a19")
+		(sheetname "/")
 		(sheetfile "FaultyCat.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -25640,7 +25708,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31352,7 +31420,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33155,7 +33223,7 @@
 				)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C2886902"
 			(at -14.47625 228.16125 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -35012,7 +35080,7 @@
 				)
 			)
 		)
-		(property "Proveedor" "MOUSER"
+		(property "Proveedor" "LCSC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35065,7 +35133,8 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(sheetname "Raíz")
+		(path "/f6b5db13-4831-49e5-b422-f157bff76dbb")
+		(sheetname "/")
 		(sheetfile "FaultyCat.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -36696,7 +36765,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -37080,7 +37149,7 @@
 				)
 			)
 		)
-		(property "Manf#" "SM4005PL-TP"
+		(property "Manf#" "1N4005"
 			(at 203.32725 -5.51655 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -37136,6 +37205,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cedb8b48-38de-4985-b4ae-7b66543f4664")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C437593"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dc5c8e23-6fd1-4426-92ff-1d51a77b4674")
 			(effects
 				(font
 					(size 1 1)
@@ -38177,7 +38259,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
@@ -39897,7 +39979,7 @@
 				)
 			)
 		)
-		(property "Manf#" "SM4005PL-TP"
+		(property "Manf#" "1N4005"
 			(at 215.38725 -17.93655 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -39953,6 +40035,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d93d8597-8767-4ccc-8803-e511e0a5200c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C437593"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d26c4825-8c37-4fd6-9ac9-b8ea951062c3")
 			(effects
 				(font
 					(size 1 1)
@@ -41286,7 +41381,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -41318,6 +41413,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "56c4bdac-e60a-46c2-b800-ffb36f7a0020")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C7499322"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "296b0e0d-f172-451c-8a8c-c19ee8d4f2d1")
 			(effects
 				(font
 					(size 1 1)
@@ -44270,7 +44378,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -45121,6 +45229,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C692326"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fdd8e2d9-dbc2-413b-8957-60feee10a614")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6ede123e-9e07-4aeb-acda-01f0823a2ee5")
 		(sheetname "/")
@@ -45310,7 +45431,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45342,6 +45463,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0182b1a5-599e-4d87-8c7a-5fd6e3430359")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C7499322"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "88f3c1c9-2232-4569-beb2-4c0fe5c8732c")
 			(effects
 				(font
 					(size 1 1)
@@ -45626,7 +45760,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45658,6 +45792,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "24820ca6-ea65-4766-98ac-c1cc2120c1de")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C7499322"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "231e09cf-aef4-4feb-a842-f607cbc6ba46")
 			(effects
 				(font
 					(size 1 1)
